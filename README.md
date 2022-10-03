@@ -8,4 +8,4 @@
 
 # Практическая работа 3
 
-  - [Отчёт по ПР2](https://github.com/BrinkovanVA/practicds/blob/main/pr_3.pdf).
+  - [Отчёт по ПР3](https://github.com/BrinkovanVA/practicds/blob/main/pr_3.pdf).
