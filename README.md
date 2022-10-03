@@ -5,3 +5,7 @@
 # Практическая работа 2
 
   - [Отчёт по ПР2](https://github.com/BrinkovanVA/practicds/blob/main/pr_2.pdf).
+
+# Практическая работа 3
+
+  - [Отчёт по ПР2](https://github.com/BrinkovanVA/practicds/blob/main/pr_3.pdf).
