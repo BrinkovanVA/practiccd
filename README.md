@@ -17,3 +17,7 @@
 # Практическая работа 5
 
   - [Отчёт по ПР5](https://github.com/BrinkovanVA/practicds/blob/main/pr_5.pdf).
+  
+# Практическая работа 6
+
+  - [Отчёт по ПР6](https://github.com/BrinkovanVA/practicds/blob/main/pr_6.pdf).
